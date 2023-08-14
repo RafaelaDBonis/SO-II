@@ -22,5 +22,5 @@ Anotações das aulas de Sistemas Operacionais
           q (quit) -> sair do manual
   * pwd -> caminho da pasta atual
   * cd~ -> ir para pasta d usuário
-  * / ->
+  * / -> raiz do disco (C:)
   
