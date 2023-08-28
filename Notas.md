@@ -34,16 +34,21 @@ Bourne-Again SHell -> BASH
 
 Para verificar se um SO tem algum BASH basta entrar no terminal e digitar os comandos cat/etc/shells
 
-na aula do dia 28/08
+*Aula do dia 28/08*
 
-- Crie um arquivo de script com touch aula.sh
+- Para descobrir em qual pasta está instalado o shell
+- Crie um arquivo de script com `touch aula.sh`
 - Para abrir o arquivo use um editor de texto
-  - nano aula.sh
-  - #!/bin/bash
+  - `nano aula.sh`
+  - `#!/bin/bash`
   - Pule uma linha e escreva echo"teste"
     
-No nano, salve o arquivo Ctrl + X
-
-
+No nano, salve o arquivo Ctrl + O + ENTER
+  - `chmod777 aula.sh`
+  - `./aula.sh ou sh aula.sh`
+  - Comentário:
+      - `#Estou escrendo pipopi`
+      - Várias linhas `<<COMENTS texto COMMENTS`
+  -
 
 
