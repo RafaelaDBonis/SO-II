@@ -15,7 +15,7 @@ Anotações das aulas de Sistemas Operacionais
   * cd.. -> sai da pasta
   * mkdir -> cria pasta
   * touch -> cria arquivo
-  * cat -> exibe conteúdo do arquivo
+  * cat -> lê e exibe conteúdo do arquivo 
   * rmdir -> apaga pasta
   * rm -rf -> apagar pasta com conteúdo
   * man -> manual do comando
@@ -24,6 +24,7 @@ Anotações das aulas de Sistemas Operacionais
   * pwd -> caminho da pasta atual
   * cd~ -> ir para pasta d usuário
   * / -> raiz do disco (C:)
+  * sh arquivo.sh -> executa o arquivo
   
 # BASH
 
@@ -50,5 +51,7 @@ No nano, salve o arquivo Ctrl + O + ENTER
       - `#Estou escrendo pipopi`
       - Várias linhas `<<COMENTS texto COMMENTS`
   -
+
+  #QUESTIONÁRIO N 
 
 
